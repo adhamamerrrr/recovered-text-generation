@@ -1,0 +1,5 @@
+Engineering begins with a question. A question leads to an experiment.
+An experiment produces data. Data supports a decision.
+A decision leads to a new question. Engineering requires testing.
+Testing improves a system. A system produces data.
+Data helps engineers understand a system. A question improves engineering.
